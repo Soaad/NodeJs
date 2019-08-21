@@ -15,5 +15,8 @@ console.log(__dirname);
 console.log(__filename); */
 
 
-var count=require('./count');
-console.log(count(['soaad','ali','ahmed']));
+var stuff=require('./stuff');
+console.log(stuff.counter(['soaad','ali','ahmed']));
+
+console.log(stuff.adder(2,89));
+console.log(stuff.pi);
