@@ -1,0 +1,48 @@
+{
+  "_from": "npm-demo-pkg",
+  "_id": "npm-demo-pkg@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-QmCLSVyGVxrycZ/GH/uSlQuElpo=",
+  "_location": "/npm-demo-pkg",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "npm-demo-pkg",
+    "name": "npm-demo-pkg",
+    "escapedName": "npm-demo-pkg",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/npm-demo-pkg/-/npm-demo-pkg-2.0.0.tgz",
+  "_shasum": "42608b495c86571af2719fc61ffb92950b84969a",
+  "_spec": "npm-demo-pkg",
+  "_where": "/Users/soaadabdelaziz/Desktop/Work/NodeJs/Data Aggreator",
+  "author": {
+    "name": "NPM Demo User",
+    "email": "npm.demo.user@gmail.com",
+    "url": "http://example.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colors": "^1.0.3",
+    "request": "^2.88.2"
+  },
+  "deprecated": false,
+  "description": "A demo package for a video",
+  "keywords": [
+    "demo"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "npm-demo-pkg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
